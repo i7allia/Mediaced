@@ -29,3 +29,7 @@ h1, h2 {
     width: 746px;
    
 }
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
