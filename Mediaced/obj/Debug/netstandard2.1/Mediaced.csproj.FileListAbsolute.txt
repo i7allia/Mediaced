@@ -2,7 +2,6 @@ D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\Mediaced.StaticWebAssets.x
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\Mediaced.dll
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\Mediaced.pdb
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mediaced.dll
-D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
@@ -60,7 +59,6 @@ D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\do
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mediaced.dll.gz
-D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
 D:\project\Mediaced\Mediaced\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
@@ -155,8 +153,6 @@ D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Mediaced.AssemblyInfo.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Mediaced.csproj.CoreCompileInputs.cache
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Mediaced.RazorComponent.input.cache
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
@@ -168,16 +164,12 @@ D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Mediaced.TagHelpers.input.
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Mediaced.TagHelpers.output.cache
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Mediaced.RazorCoreGenerate.cache
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\blazor\unlinked.output
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\BIGkYtIPSEoEs-bh0cRfyyK7AnJfSPjF91-JTysccDg=.hash
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
@@ -228,15 +220,12 @@ D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\_kkwUt5LUrFrnFcH
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\uvwa2mHEwRve9oJoHz9pa8MllQQCcoXZoLS9GhQlQUE=.hash
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\woO-thSPk6D_98HD5RCz0vK_IFYI9P7P9-pk66sVCw0=.hash
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mediaced.dll.gz
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
@@ -294,7 +283,6 @@ D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\wasm
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mediaced.dll.br
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
@@ -358,3 +346,6 @@ D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Mediaced.RazorTargetAssemb
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Mediaced.csproj.CopyComplete
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Mediaced.dll
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Mediaced.pdb
+D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\I8rUlGOx5yViphswJ5chrN0rKR62RZOvQd9gxeNg2Y8=.hash
+D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\r236qO4v76pg3GB7BRYtMqs1W5w0FSy9Z8xRpZ372_0=.hash
+D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\dPboBPEFAIV9U1EMc6ihNW0dY0Rej0ACWHY3UM7RmFY=.hash
