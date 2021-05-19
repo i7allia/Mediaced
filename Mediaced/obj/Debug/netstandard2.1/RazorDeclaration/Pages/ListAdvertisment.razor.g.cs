@@ -75,6 +75,13 @@ using Mediaced.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "D:\project\Mediaced\Mediaced\_Imports.razor"
+using Mediaced.Model;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/list")]
     public partial class ListAdvertisment : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -83,6 +90,23 @@ using Mediaced.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 48 "D:\project\Mediaced\Mediaced\Pages\ListAdvertisment.razor"
+       
+    public List<Advertisement> advs;
+        protected override void OnInitialized()
+        {
+            base.OnInitialized();
+        advs = new List<Advertisement>();
+        Advertisement adv1 = new Advertisement(1, "Тестировщик", "+375297777777", 700, 2.6f, 1820f);
+
+        advs.Add(adv1);
+
+        }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

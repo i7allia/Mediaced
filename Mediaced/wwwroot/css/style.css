@@ -33,3 +33,12 @@ a {
     color: inherit;
     text-decoration: inherit;
 }
+
+    a:hover {
+    color:white;
+    }
+
+.workblock {
+    margin-left: 200px;
+    margin-top: -70px;
+}

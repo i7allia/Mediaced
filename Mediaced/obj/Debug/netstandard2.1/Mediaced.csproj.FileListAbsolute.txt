@@ -352,6 +352,6 @@ D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Lis
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Razor\Pages\AboutCompany.razor.g.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Razor\Pages\AddAdvertisement.razor.g.cs
 D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\Razor\Pages\ListAdvertisment.razor.g.cs
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\SzSP51t7bDARNNQHqz77k4o2GlpIeScnY0rvWXZ99fw=.hash
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\5mTzAlcDUEhkeQPKoka794x3e-766HOTz5cECE9UU98=.hash
-D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\Kd69rD7IV8b1SzPr-Trh6-kAudE9GDdhN-tMP5Ykg_0=.hash
+D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\zKppgSYWEM9R2EGR28-pi41EfySIV53pWstPkP86gLU=.hash
+D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\nPVCsIaao2woaVc1yTZELCeQHSYFBHEEwjJpL_lfQ1A=.hash
+D:\project\Mediaced\Mediaced\obj\Debug\netstandard2.1\integrity\-LZl1wRy3gpReCS_ogH3oSGTH04_zNsWLZtNk7Yq88I=.hash

@@ -75,6 +75,13 @@ using Mediaced.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "D:\project\Mediaced\Mediaced\_Imports.razor"
+using Mediaced.Model;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/add")]
     public partial class AddAdvertisement : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -83,6 +90,33 @@ using Mediaced.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 63 "D:\project\Mediaced\Mediaced\Pages\AddAdvertisement.razor"
+               
+
+            Advertisement adv;
+            String phonenumber;
+            String name;
+            float salaryusd;
+            float course;
+            float salarybyn;
+
+
+            protected override void OnInitialized()
+            {
+                base.OnInitialized();
+                adv = new Advertisement();
+                course = 2.9f;
+            }
+            private float getsalarybyn()
+            {
+                adv.salarybyn = adv.salaryusd * course;
+                return adv.salarybyn;
+            }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

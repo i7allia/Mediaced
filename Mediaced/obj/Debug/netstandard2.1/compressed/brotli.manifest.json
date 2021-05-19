@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\SzSP51t7bDARNNQHqz77k4o2GlpIeScnY0rvWXZ99fw=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\zKppgSYWEM9R2EGR28-pi41EfySIV53pWstPkP86gLU=.hash",
       "Source": "D:\\project\\Mediaced\\Mediaced\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Mediaced.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Mediaced.dll.br"
     },
@@ -256,7 +256,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\5mTzAlcDUEhkeQPKoka794x3e-766HOTz5cECE9UU98=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\nPVCsIaao2woaVc1yTZELCeQHSYFBHEEwjJpL_lfQ1A=.hash",
       "Source": "D:\\project\\Mediaced\\Mediaced\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Mediaced.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Mediaced.pdb.br"
     },
@@ -281,7 +281,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Kd69rD7IV8b1SzPr-Trh6-kAudE9GDdhN-tMP5Ykg_0=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-LZl1wRy3gpReCS_ogH3oSGTH04_zNsWLZtNk7Yq88I=.hash",
       "Source": "D:\\project\\Mediaced\\Mediaced\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }

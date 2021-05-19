@@ -72,6 +72,13 @@ using Mediaced.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "D:\project\Mediaced\Mediaced\_Imports.razor"
+using Mediaced.Model;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

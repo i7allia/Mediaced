@@ -75,6 +75,13 @@ using Mediaced.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "D:\project\Mediaced\Mediaced\_Imports.razor"
+using Mediaced.Model;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {

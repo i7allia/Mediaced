@@ -1,6 +1,59 @@
 ﻿@page "/list"
-<h3>ListAdvertisment</h3>
+<div class="workblock">
+    <div class="row">
+    <div class="col-2"></div>
+    <div class="col-8"></div>
+    <h2>Список объявлений</h2>
+
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-2"></div>
+    <div class="col-6">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Наименование вакансии</th>
+                    <th scope="col">Номер телефона компании</th>
+                    <th scope="col">Зарплата в USD</th>
+                    <th scope="col">Курс</th>
+                    <th scope="col">Зарплата в BYN</th>
+                    
+                    </tr>
+
+            </thead>
+            <tbody>
+
+                @foreach (var x in advs)
+                {
+                <tr>
+                    <th scope="row">@x.id</th>
+                    <td>@x.name</td>
+                    <td>@x.phonenumber</td>
+                    <td>@x.salaryusd</td>
+                    <td>@x.course</td>
+                    <td>@x.salarybyn</td>
+                </tr>
+                }
+                
+            </tbody>
+
+        </table>
+    </div>
+    </div>
+    
+
 
 @code {
+    public List<Advertisement> advs;
+        protected override void OnInitialized()
+        {
+            base.OnInitialized();
+        advs = new List<Advertisement>();
+        Advertisement adv1 = new Advertisement(1, "Тестировщик", "+375297777777", 700, 2.6f, 1820f);
 
+        advs.Add(adv1);
+
+        }
 }
